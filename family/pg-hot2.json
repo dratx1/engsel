@@ -388,5 +388,35 @@
         "overwrite_amount": -1,
         "token_confirmation_idx": 0,
         "amount_idx": -1
+    },
+    {
+        "name": "Xtra On 2GB + Mastif 30 Hari",
+        "price": "Rp0",
+        "detail": "Akumulasi, jeda 1-24 jam random.\nSupported payment: Balance.\nJangan di-overwrite.",
+        "packages": [
+            {
+                "family_name": "",
+                "family_code": "d738d292-64fb-4f27-a8e9-01d9a57f20e2",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "025f9e2d-e128-4189-a638-bfb121ef89cd",
+                "option_name": "",
+                "order": 1
+            },
+            {
+                "family_name": "Xtra Combo Plus",
+                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
+                "option_name": "69GB",
+                "order": 19
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": true,
+        "overwrite_amount": -1,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
     }
 ]
